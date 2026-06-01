@@ -1,2 +1,17 @@
-# wireshark-network-analysis
-Learning network traffic analysis using Wireshark. Beginner cybersecurity project focused on packet analysis and network protocols. Hands-on practice with Wireshark for network monitoring and packet inspection. Network traffic analysis project using Wireshark and common network protocols.
+# Wireshark Network Analysis
+
+## Objective
+Learn how to capture and analyze network traffic using Wireshark.
+
+## Tools Used
+- Wireshark
+- Windows 11
+
+## Tasks Performed
+- Captured network packets
+- Identified HTTP, DNS, and ICMP traffic
+- Applied packet filters
+- Analyzed packet details
+
+## Key Learning
+This project helped me understand network protocols and packet analysis fundamentals.
