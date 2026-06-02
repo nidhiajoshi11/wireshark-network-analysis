@@ -1,17 +1,28 @@
 # Wireshark Network Analysis
 
 ## Objective
-Learn how to capture and analyze network traffic using Wireshark.
+
+To learn network traffic analysis and understand common network protocols using Wireshark.
 
 ## Tools Used
-- Wireshark
-- Windows 11
+
+* Wireshark
+* Windows 11
+
+## Protocols Analyzed
+
+* DNS (Domain Name System)
+* TCP (Transmission Control Protocol)
+* TLS (Transport Layer Security)
 
 ## Tasks Performed
-- Captured network packets
-- Identified HTTP, DNS, and ICMP traffic
-- Applied packet filters
-- Analyzed packet details
+
+* Captured live network traffic.
+* Applied protocol filters to analyze specific packets.
+* Examined DNS requests and responses.
+* Observed TCP communication between devices.
+* Analyzed TLS traffic used for secure web connections.
 
 ## Key Learning
-This project helped me understand network protocols and packet analysis fundamentals.
+
+This project improved my understanding of network communication, protocol analysis, and packet inspection using Wireshark.
